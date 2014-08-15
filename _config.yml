@@ -1,0 +1,6 @@
+# Site settings
+title: Site Title
+
+# Build settings
+markdown: kramdown
+permalink: pretty
