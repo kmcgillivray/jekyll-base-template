@@ -3,4 +3,4 @@ layout: post
 title:  "Welcome to Jekyll!"
 ---
 
-Welcom to Jekyll, everyone.
+Welcome to Jekyll, everyone!
